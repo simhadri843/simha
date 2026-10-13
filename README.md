@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/simhadri843/simha/tree/master/0001-two-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/simhadri843/simha/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
@@ -13,6 +14,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/simhadri843/simha/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/simhadri843/simha/tree/master/0290-word-pattern) |
 ## String
 |  |
