@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/simhadri843/simha/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/simhadri843/simha/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/simhadri843/simha/tree/master/0217-contains-duplicate) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/simhadri843/simha/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
@@ -29,4 +30,8 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/simhadri843/simha/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/simhadri843/simha/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/simhadri843/simha/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
